@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RIYA2JAIN
-- 👀 I’m interested to collaborate, innovate and ideate.
+- 👀 I’m interested to innovate, create and ideate.
 - 🌱 I’m currently working on JAVA, Angular JS.
 - �Looking to collaborate on Full Stack Projects.
 - 📫 Get in touch at missriyajain2018@gmail.com
