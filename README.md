@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RIYA2JAIN
+- 👋 Hi, I’m RIYA JAIN
 - 👀 I’m interested to innovate, create and ideate.
 - 🌱 I’m currently working on JAVA, Angular JS.
 - �Looking to collaborate on Full Stack Projects.
